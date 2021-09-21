@@ -1,5 +1,3 @@
-#This is my repo for scrips from university
-=======
 # This is my repo for scrips from university
 
 ## 1st lesson
