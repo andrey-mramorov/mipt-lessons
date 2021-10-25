@@ -16,4 +16,4 @@ Learning of argparse, sys. 2-4 task is about decorators. Fourth task is about cr
 Create different structures of objects. Studying writing parent classes. Last task is in separate repo: https://github.com/andrey-mramorov/arithmetic_dragons.git
 
 ## 6th lesson
-Creating classes Vector and Complex which discript objects same as 3-dimensional vector and complex number. I redeclared hidden class methods such as *__add__()*, *__mult__()* etc. 
+Creating classes Vector and Complex which discript objects same as 3-dimensional vector and complex number. I redeclared hidden class methods such as *\_\_add\_\_()*, *\_\_mult\_\_()* etc. 
