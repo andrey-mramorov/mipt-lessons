@@ -17,3 +17,12 @@ Create different structures of objects. Studying writing parent classes. Last ta
 
 ## 6th lesson
 Creating classes Vector and Complex which discript objects same as 3-dimensional vector and complex number. I redeclared hidden class methods such as *\_\_add\_\_()*, *\_\_mult\_\_()* etc. 
+
+## 7th lesson
+Abstract classes.
+
+## 8th lesson
+Generators and iterators.
+
+## 9th lesson
+Iterators and co-process.
